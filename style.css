@@ -1,0 +1,36 @@
+.general-info {
+  height: 8vh;
+}
+.general-info__socials {
+  gap: 15px;
+}
+.general-info__socials a {
+  background-color: rgba(108, 117, 125, 0.2);
+}
+.general-info__socials a img {
+  width: 20px;
+  height: 15px;
+}
+
+.service-section {
+  height: 50vh;
+}
+.service-section .container {
+  gap: 10px;
+}
+.service-section .container div img {
+  width: 150px;
+  height: 150px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.primary-text {
+  color: #3c8396;
+}
+
+/*# sourceMappingURL=style.css.map */

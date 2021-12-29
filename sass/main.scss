@@ -1,0 +1,19 @@
+@import 'index';
+
+$primary-color: rgba(60,131,150,1);
+$secondary-color: rgba(241,194,66, 1);
+
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+.primary-text {
+    color: $primary-color;
+}
+
+
+

@@ -1,0 +1,35 @@
+// ////// Navbar
+.general-info {
+    height: 8vh;
+
+    &__socials {
+        gap: 15px;
+        
+            & a {
+                background-color: rgba(108,117,125, .2);
+
+            img{
+                width: 20px;
+                height: 15px;
+            }
+        }
+    }
+    // &__contact-info .info-container img{
+
+    // }
+}
+
+// ///// Services Section
+.service-section  {
+    height: 50vh;
+
+    & .container {
+    gap: 10px;
+
+    & div img {
+        width: 150px;
+        height: 150px;
+    }
+    }
+
+}
